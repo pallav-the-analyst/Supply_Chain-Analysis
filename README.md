@@ -10,7 +10,7 @@ The dashboard enables supply chain managers and business leaders to monitor logi
 - **Key KPI Cards:** Real-time display of OTIF, IFR, OT, LIFRS, and VOFR metrics.
 - **Product-Level Insights:** Analyze delivery performance by individual products and SKUs.
 - **Customer-Level Delivery Performance:** Understand which customers are most affected by late or incomplete deliveries..
-- **Delay Insights:** Track average delay days (AODD) and number of delayed orders.
+- **Delay Insights:** Track average delay days (ADDD) and number of delayed orders.
 - **Performance Trends:** Line chart showing OTIF% over time to help spot improvement or decline.
 
 ## Live Dashboard
